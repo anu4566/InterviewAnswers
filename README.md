@@ -14,4 +14,4 @@ Enter the path as root/devops/
 Below is the workingsteps and output
 https://user-images.githubusercontent.com/4023848/31110215-563981e4-a7d3-11e7-8897-f0452d898189.png
 
-Aswwer for third question is available as ChallengeAnswers.pdf inside InterviewAnswers
+Answer for third question is available as ChallengeAnswers.pdf inside InterviewAnswers
